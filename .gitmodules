@@ -1,0 +1,3 @@
+[submodule "interpolation"]
+	path = interpolation
+	url = https://github.com/albop/python_interpolation.git
